@@ -1,0 +1,4 @@
+build/default/production/PracticaC.p1:  \
+PracticaC.c  \
+puertos.h  \
+main.h 
